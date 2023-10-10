@@ -1,2 +1,2 @@
 # ovpocmagnamotion
-OV PoC
+Temp location for OV PoC
